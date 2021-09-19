@@ -11,9 +11,7 @@ Edit these files:
 
 Add one file `token` containing only your [GitHub Personal Access Token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token).
 
-
 ## Execute
-
 The scripts run immediately; there are no confirmations.
 
 ### Add members to GitHub team
