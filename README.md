@@ -42,3 +42,6 @@ If a GitHub username is not found or cannot be added to the team, the program wi
 Run `bash removeTeamMembers.sh` on the command line. This will immediately remove the members contained in `memberList` from the team contained in `teamName`.
 
 ---
+# Author
+Christine Taylor, github.com/9christine, twitter.com/_9christine
+
